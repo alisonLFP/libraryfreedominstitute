@@ -1,6 +1,7 @@
-B.N. Jones
-LFI Week 12
-Share info about the risks of bulk data collection into your library, whether as talking points, slides, a panel discussion, or something else 
+B.N. Jones  
+LFI Week 12  
+Share info about the risks of bulk data collection into your library, whether as talking points, slides, a panel discussion, or something else
+
 
 [Stanch the Data Bleeding](https://librarianbryan.github.io/datamining_/)
 
